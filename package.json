@@ -1,0 +1,19 @@
+{
+  "name": "mocha-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "javascript"
+  ],
+  "author": "Oliver Spinks",
+  "license": "ISC"
+}
