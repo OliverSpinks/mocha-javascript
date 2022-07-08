@@ -11,7 +11,7 @@ var assert = require('assert');
 
 describe('Mathematical Operations - Test Suite', function(){
 
-  it('Addition of two numbers', function(){
+  it.skip('Addition of two numbers', function(){
 
     var a = 10;
     var b = 10;
